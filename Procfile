@@ -1,1 +1,1 @@
-web: gunicorn oes.auth:oes
+web: gunicorn oes.__init__:oes
