@@ -1,1 +1,1 @@
-web: gunicorn oes.oes.__init__:oes
+web: gunicorn oes.__init__:oes
